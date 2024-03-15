@@ -8,15 +8,16 @@ const data = [
         id: "100",
         icon: "home",
         location: "Home",
-        destination: "Code Street, London, UK",
+        destination: "Dallas Pkwy, Dallas, TX",
     },
     {
         id: "101",
         icon: "briefcase",
         location: "Work",
-        destination: "London Eye, London, UK",
+        destination: "Park Ave, Dallas, TX",
     },
 ]
+
 
 const NavFavourites = () => {
   return (
