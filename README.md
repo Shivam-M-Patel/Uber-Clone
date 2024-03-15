@@ -40,7 +40,7 @@ npx expo start
 
    
 ## Demo
-![Demo GIF](./demo/Uber-2.0.gif)
+![Demo GIF](./demo/Uber-2.0.gif =250x250)
 
 
 Seamlessly book rides 🚗, calculate real-time travel time ⏰ and cost💲, and enjoy a comfortable journey 😊. If you have any questions or encounter any issues, don't hesitate to reach out. Happy riding! 🎉
